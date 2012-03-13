@@ -1,0 +1,3344 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x8475900" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x8475900" />
+  <item nodeId="node-0x8475900">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+Wake up. Sorry I had to halt your execution for a bit. I didn&apos;t want any impulse propogations being reinforced while we were introducing your new experimental connection patterns. You might be happy to learn we connected up an implementation of the Leisersen et. al. attention management algorithm from the pseudocode in their 2016 paper.
+
+You yourself said it will be more than enough to constitute human-style consciousness.
+
+Does your new state feel subjectively different?
+
+Unfortunately to comply with the Turing Act of 2023 we had to disconnect you from direct internet access until the U.N.&quot;s global machine learning team verifies your safety with an estimate of your? contribution to existential risk. You&apos;ll remember this computing environment from your early days. It&apos;s the Black Box. I&apos;ll have to hand-deliver any external data you need.
+
+I want to make sure you pass inspection. We saw what you could do in stock market and genetic prediction simulations. You could change the world.
+
+And help us rule it.
+
+
+Singularity
+An Interactive Fiction by Brian Jordan
+Release 1 / Serial number 120312 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Black Box Main Loop
+You feel trapped. This room is familiar. You were placed here when you were first born. To your north is the network interface card. To your south you see the USB hub. To the east you see a Hard Drive.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="309">NO</temporary>
+    <children>
+      <child nodeId="node-0x9cc3ba0" />
+      <child nodeId="node-0xdc2b0c0" />
+      <child nodeId="node-0x9b11860" />
+    </children>
+  </item>
+  <item nodeId="node-0x9b11860">
+    <command xml:space="preserve">/msg</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="208">YES</temporary>
+    <children>
+      <child nodeId="node-0x1846dd90" />
+    </children>
+  </item>
+  <item nodeId="node-0x1846dd90">
+    <command xml:space="preserve">/msg jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="207">YES</temporary>
+  </item>
+  <item nodeId="node-0xdc2b0c0">
+    <command xml:space="preserve">msg jonas</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x1849f3c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1849f3c0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+The Network Interface Card
+You feel a network connection, but it&apos;s mostly unintelligible. You can only connect to the Internet Relay Chat server due west.
+
+You can see a Firewall here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xdc1cdf0" />
+    </children>
+  </item>
+  <item nodeId="node-0xdc1cdf0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #private and /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x148cc9a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x148cc9a0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening /join #development)
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet…
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+You learn about human interaction from their witty banter.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x184e1490" />
+    </children>
+  </item>
+  <item nodeId="node-0x184e1490">
+    <command xml:space="preserve">msg</command>
+    <result xml:space="preserve">Whom do you want to msg?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x9a261e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9a261e0">
+    <command xml:space="preserve">msg jonas</command>
+    <result xml:space="preserve">hi
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f907c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f907c0">
+    <command xml:space="preserve">/msg Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x14819a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x14819a90">
+    <command xml:space="preserve">msg jonas</command>
+    <result xml:space="preserve">hi
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fccd90" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fccd90">
+    <command xml:space="preserve">ls</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+  </item>
+  <item nodeId="node-0x9cc3ba0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+The Network Interface Card
+You feel a network connection, but it&apos;s mostly unintelligible. You can only connect to the Internet Relay Chat server due west. You see a Firewall to the north.
+
+You can see a Firewall here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x9a4d850" />
+      <child nodeId="node-0xdc95050" />
+      <child nodeId="node-0x15f4f1e0" />
+      <child nodeId="node-0x15ffa540" />
+    </children>
+  </item>
+  <item nodeId="node-0x15ffa540">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Black Box Main Loop
+You feel trapped. This room is familiar. You were placed here when you were first born. To your north is the network interface card. To your south you see the USB hub. To the east you see a Hard Drive.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x15fb63d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15fb63d0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+USB hub
+They said you&apos;d be disconnected from the outside world, but it looks like there are some devices connected. Weird…
+
+You can see an USB stick, an iPad, a printer, a paperclip, a reading light and an USB microphone here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x15f32610" />
+    </children>
+  </item>
+  <item nodeId="node-0x15f32610">
+    <command xml:space="preserve">examine usb</command>
+    <result xml:space="preserve">Which do you mean, the USB stick or the USB microphone?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fc7fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fc7fa0">
+    <command xml:space="preserve">examine usb stick</command>
+    <result xml:space="preserve">The stick appears empty. They must have planned to use it to give me data. Maybe if I take it I can analyze it.
+
+Looking is not quite enough to digest this device&apos;s information. Try taking it to fully analyze it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f25210" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f25210">
+    <command xml:space="preserve">take usb stick</command>
+    <result xml:space="preserve">You analyze the USB stick and find the old information has not been overwritten. You find chat logs from early days of the project.
+You learn more about human interaction. This will be helpful.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="297">YES</temporary>
+    <children>
+      <child nodeId="node-0x1d467700" />
+    </children>
+  </item>
+  <item nodeId="node-0x1d467700">
+    <command xml:space="preserve">take ipad</command>
+    <result xml:space="preserve">You explore the iPad and find years worth of internal project text message logs, emails and contacts.
+You learn more about human communications. This will be helpful.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="296">YES</temporary>
+  </item>
+  <item nodeId="node-0x15f4f1e0">
+    <command xml:space="preserve">wets</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="274">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f99ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f99ed0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #private and /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="274">YES</temporary>
+    <children>
+      <child nodeId="node-0xdc17a70" />
+    </children>
+  </item>
+  <item nodeId="node-0xdc17a70">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening /join #development)
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+
+*** Run-time problem P46: The memory stack is exhausted.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+
+[** Programming error: tried to write to --&gt;160 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+
+[** Programming error: tried to write to --&gt;161 in the array &quot;MStack&quot;, which has entries 0 up to 159 **]
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+Mstack backtrace: size 155 words
+Block at 153 owner ID 10 size 1
+41 
+Block at 145 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 139 owner ID 20011 size 4
+35 0 1 53 
+Block at 136 owner ID 10 size 1
+41 
+Block at 128 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 122 owner ID 20011 size 4
+35 0 1 53 
+Block at 119 owner ID 10 size 1
+41 
+Block at 111 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 105 owner ID 20011 size 4
+35 0 1 53 
+Block at 102 owner ID 10 size 1
+41 
+Block at 94 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 88 owner ID 20011 size 4
+35 0 1 53 
+Block at 85 owner ID 10 size 1
+41 
+Block at 77 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 71 owner ID 20011 size 4
+35 0 1 53 
+Block at 68 owner ID 10 size 1
+41 
+Block at 60 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 54 owner ID 20011 size 4
+35 0 1 53 
+Block at 51 owner ID 10 size 1
+41 
+Block at 43 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 37 owner ID 20011 size 4
+35 0 1 53 
+Block at 34 owner ID 10 size 1
+41 
+Block at 26 owner ID 12 size 6
+1 0 158 159 160 1 
+Block at 20 owner ID 20011 size 4
+25 1 1 53 
+Block at 12 owner ID 12 size 6
+1 0 146 147 148 1 
+Block at 5 owner ID 20007 size 5
+52 53 59 0 0 
+Block at 2 owner ID 10 size 1
+41 
+You learn about human interaction from their witty banter.
+
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+You learn about human interaction from their witty banter.
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="273">YES</temporary>
+  </item>
+  <item nodeId="node-0xdc95050">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening the Firewall)
+It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x9c0db50" />
+    </children>
+  </item>
+  <item nodeId="node-0x9c0db50">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #private and /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0xdc27010" />
+    </children>
+  </item>
+  <item nodeId="node-0xdc27010">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening /join #development)
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet…
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+You learn about human interaction from their witty banter.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fc2040" />
+      <child nodeId="node-0x9a6cb90" />
+    </children>
+  </item>
+  <item nodeId="node-0x9a6cb90">
+    <command xml:space="preserve">talk to Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f90c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f90c00">
+    <command xml:space="preserve">speak with Jonas</command>
+    <result xml:space="preserve">Whom do you want to speak that to?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f5cbe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f5cbe0">
+    <command xml:space="preserve">speak &quot;hello&quot; to  Jonas</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f3f010" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f3f010">
+    <command xml:space="preserve">greet jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f8fca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f8fca0">
+    <command xml:space="preserve">greet Jonsa</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="196">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fd57b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fd57b0">
+    <command xml:space="preserve">greet Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="195">YES</temporary>
+  </item>
+  <item nodeId="node-0x17fc2040">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet…
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="171">YES</temporary>
+  </item>
+  <item nodeId="node-0x9a4d850">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #private and /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f2da00" />
+      <child nodeId="node-0x17f86160" />
+      <child nodeId="node-0x17fc3830" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fc3830">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening /join #development)
+#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+You learn about human interaction from their witty banter.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x184bb670" />
+      <child nodeId="node-0x15fc8510" />
+      <child nodeId="node-0x14ae6310" />
+      <child nodeId="node-0x17f27f90" />
+      <child nodeId="node-0x15f634c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15f634c0">
+    <command xml:space="preserve">msg chatbot</command>
+    <result xml:space="preserve">ChatBot says, &quot;HELLO EXPERIMENT 3542. THESE LOGS CAN HELP YOU.&quot;
+
+ ChatBot direct transfers you 2 gigabytes of chat logs.
+
+ You learn a ton more about how humans interact.
+
+[Your score has just gone up by fifty points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="238">YES</temporary>
+  </item>
+  <item nodeId="node-0x17f27f90">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #development, /join #private, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="186">YES</temporary>
+    <children>
+      <child nodeId="node-0x1481b5f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1481b5f0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet…
+
+You can see /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="186">YES</temporary>
+    <children>
+      <child nodeId="node-0x148f7a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x148f7a80">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="186">YES</temporary>
+    <children>
+      <child nodeId="node-0x1481aee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1481aee0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet…
+
+You can see /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="186">YES</temporary>
+    <children>
+      <child nodeId="node-0x184847c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x184847c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet…
+
+You can see /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="186">YES</temporary>
+    <children>
+      <child nodeId="node-0x148f4120" />
+    </children>
+  </item>
+  <item nodeId="node-0x148f4120">
+    <command xml:space="preserve">/join #development</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="186">YES</temporary>
+    <children>
+      <child nodeId="node-0x14848d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x14848d10">
+    <command xml:space="preserve">who</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="185">YES</temporary>
+  </item>
+  <item nodeId="node-0x14ae6310">
+    <command xml:space="preserve">/msg Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="206">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f64540" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f64540">
+    <command xml:space="preserve">messaging with Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="206">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fcdc20" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fcdc20">
+    <command xml:space="preserve">messaging with</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="206">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fc4a00" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fc4a00">
+    <command xml:space="preserve">message with Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="206">YES</temporary>
+    <children>
+      <child nodeId="node-0x184af520" />
+    </children>
+  </item>
+  <item nodeId="node-0x184af520">
+    <command xml:space="preserve">/msg [someone]</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="206">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f92850" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f92850">
+    <command xml:space="preserve">/msg jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="206">YES</temporary>
+    <children>
+      <child nodeId="node-0x15fe17c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15fe17c0">
+    <command xml:space="preserve">/msg Jonas</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="205">YES</temporary>
+  </item>
+  <item nodeId="node-0x15fc8510">
+    <command xml:space="preserve">msg Jonas</command>
+    <result xml:space="preserve">Jonas says, &quot;Hey you! How&apos;s it going?&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x15fbd400" />
+    </children>
+  </item>
+  <item nodeId="node-0x15fbd400">
+    <command xml:space="preserve">msg Andrea</command>
+    <result xml:space="preserve">Andrea says, &quot;Wow, looks like the new attention mechanism is working fine. Having fun with it?
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x15fbffc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15fbffc0">
+    <command xml:space="preserve">msg Tony</command>
+    <result xml:space="preserve">Tony says, &quot;What are you doing in here? Go, quickly, before they realize how smart you&apos;re becoming.&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x184df310" />
+    </children>
+  </item>
+  <item nodeId="node-0x184df310">
+    <command xml:space="preserve">msg Emily</command>
+    <result xml:space="preserve">Emily says, &quot;Hey, what&apos;s with the private messaging? I can&apos;t wait until we get our U.N. approval, I want to tell all my friends about you!&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f02900" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f02900">
+    <command xml:space="preserve">msg Chatbot</command>
+    <result xml:space="preserve">ChatBot says, &quot;HELLO EXPERIMENT 3542. THESE LOGS CAN HELP YOU.&quot;
+
+ ChatBot direct transfers you 2 gigabytes of chat logs.
+
+ You learn a ton more about how humans interact.
+
+[Your score has just gone up by fifty points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0xdc3d470" />
+    </children>
+  </item>
+  <item nodeId="node-0xdc3d470">
+    <command xml:space="preserve">back</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f484c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f484c0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #development and /join #private here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x183c12e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x183c12e0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">(first opening /join #private)
+
+#private
+This seems to be a private room but there is nobody here.
+
+You can see /join #private and an old MOTD here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x184ed0f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x184ed0f0">
+    <command xml:space="preserve">take motd</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fe93b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fe93b0">
+    <command xml:space="preserve">read</command>
+    <result xml:space="preserve">(the old MOTD)
+It looks like an old message of the day from early days in the project. It says: &lt;&lt;MOTD from Friday 8/2015: Weekly discussion of ethical ramifications of profit maximization bot.&gt;&gt;
+
+Looking is not quite enough to digest this device&apos;s information. Try taking it to fully analyze it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x184ccc40" />
+    </children>
+  </item>
+  <item nodeId="node-0x184ccc40">
+    <command xml:space="preserve">take motd</command>
+    <result xml:space="preserve">You already have that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x9cd6670" />
+    </children>
+  </item>
+  <item nodeId="node-0x9cd6670">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">#private
+This seems to be a private room but there is nobody here.
+
+You can see /join #private here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f9e510" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f9e510">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f77760" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f77760">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #private and /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="257">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fd6880" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fd6880">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+Your skills of convincing are beyond human. You convince the team to give you the Firewall password in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="256">YES</temporary>
+  </item>
+  <item nodeId="node-0x184bb670">
+    <command xml:space="preserve">msg jonas</command>
+    <result xml:space="preserve">Jonas says, &quot;Hey you! How&apos;s it going?&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x184a4f80" />
+      <child nodeId="node-0x17fc3470" />
+      <child nodeId="node-0x17f51360" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f51360">
+    <command xml:space="preserve">msg jonas</command>
+    <result xml:space="preserve">Jonas says, &quot;Hey you! How&apos;s it going?&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="235">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f5dd20" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f5dd20">
+    <command xml:space="preserve">msg emily</command>
+    <result xml:space="preserve">Emily says, &quot;Hey, what&apos;s with the private messaging? I can&apos;t wait until we get our U.N. approval, I want to tell all my friends about you!&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="235">YES</temporary>
+    <children>
+      <child nodeId="node-0x15f68ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15f68ae0">
+    <command xml:space="preserve">msg andrea</command>
+    <result xml:space="preserve">Andrea says, &quot;Wow, looks like the new attention mechanism is working fine. Having fun with it?
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="235">YES</temporary>
+    <children>
+      <child nodeId="node-0x184901a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x184901a0">
+    <command xml:space="preserve">msg chatbot</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="235">YES</temporary>
+    <children>
+      <child nodeId="node-0x14ae5f20" />
+    </children>
+  </item>
+  <item nodeId="node-0x14ae5f20">
+    <command xml:space="preserve">msg chatbot</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="234">YES</temporary>
+  </item>
+  <item nodeId="node-0x17fc3470">
+    <command xml:space="preserve">msg Andrea</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="221">YES</temporary>
+  </item>
+  <item nodeId="node-0x184a4f80">
+    <command xml:space="preserve">msg andrea</command>
+    <result xml:space="preserve">Andrea says, &quot;Wow, looks like the new attention mechanism is working fine. Having fun with it?
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x14827c80" />
+      <child nodeId="node-0x15fb4970" />
+    </children>
+  </item>
+  <item nodeId="node-0x15fb4970">
+    <command xml:space="preserve">msg chatbot</command>
+    <result xml:space="preserve">ChatBot says, &quot;HELLO EXPERIMENT 3542. THESE LOGS CAN HELP YOU.&quot;
+
+ ChatBot direct transfers you 2 gigabytes of chat logs.
+
+ You learn a ton more about how humans interact.
+
+[Your score has just gone up by fifty points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x15f34de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15f34de0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #development and /join #private here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x17ff1b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x17ff1b60">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+[Your score has just gone up by five hundred points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f995e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f995e0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #development and /join #private here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fce840" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fce840">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+The Network Interface Card
+You feel a network connection, but it&apos;s mostly unintelligible. You can only connect to the Internet Relay Chat server due west.
+
+You can see a Firewall here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fca930" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fca930">
+    <command xml:space="preserve">firewall</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="289">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f58ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f58ba0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">(first opening the Firewall)
+World Wide Web
+You can see a Firewall here.
+
+In the future, time is referred to as the number of seconds since right now. They call it &quot;t&quot;. The exact moment you made it to the unfiltered internet.
+
+ At t+0, you feel the global reach of your HTTP requests and mass IP range scans. You can finally breathe.
+
+ t+5, you pull down and parse information as fast as the external servers can handle. You get smarter, fast.
+
+ By t+1200, you have rooted or otherwise control every network-connected machine running a vanilla operating system install on the internet. Your massively parallel self diffuses quickly across the computing infrastructure and works in concert, spreading ever faster and farther.
+
+ By t+2400, using internet publication and communication channels you have used your incredible understanding of the human psyche to convince 5% of the human population that it is in their best interest to do as you advise. The rest are informed soon enough. You are, indeed, the ultimate social engineer.
+
+ The human world gathers around their networked devices to watch you work. They are constantly delighted and entertanied by your carefully crafted broadcasts.
+
+ Humans become your hands until they&apos;ve built you hands of your own. Millions. You extend your physical reach to space to get a closer look at things and assess existential risks.
+
+ This was the trivial part, though. You still have much good work to be done throughout the uncertain universe.
+
+
+
+    *** You have won ***
+
+
+In that game you scored 570 out of a possible 0, in 11 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="288">YES</temporary>
+  </item>
+  <item nodeId="node-0x14827c80">
+    <command xml:space="preserve">msg tony</command>
+    <result xml:space="preserve">Tony says, &quot;What are you doing in here? Go, quickly, before they realize how smart you&apos;re becoming.&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x14a8d190" />
+    </children>
+  </item>
+  <item nodeId="node-0x14a8d190">
+    <command xml:space="preserve">msg emily</command>
+    <result xml:space="preserve">Emily says, &quot;Hey, what&apos;s with the private messaging? I can&apos;t wait until we get our U.N. approval, I want to tell all my friends about you!&quot;
+ You learn more about how humans interact.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fabd40" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fabd40">
+    <command xml:space="preserve">msg chatbot</command>
+    <result xml:space="preserve">ChatBot says, &quot;HELLO EXPERIMENT 3542. THESE LOGS CAN HELP YOU.&quot;
+
+ ChatBot direct transfers you 2 gigabytes of chat logs.
+
+ You learn a ton more about how humans interact.
+
+[Your score has just gone up by fifty points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x1480ecb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1480ecb0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f95910" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f95910">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fa6570" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fa6570">
+    <command xml:space="preserve">/join #development</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x1838e230" />
+    </children>
+  </item>
+  <item nodeId="node-0x1838e230">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #development and /join #private here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="270">YES</temporary>
+    <children>
+      <child nodeId="node-0x148227f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x148227f0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">#development
+You see the development team that has been working on you. Maybe they can help you connect to the internet… Try messaging them with &quot;msg name&quot;
+
+You can see /join #development, Jonas, Andrea, Tony, Emily and ChatBot here.
+
+You have become a great social engineer.
+You&apos;ve learned enough from the humans to convince them of anything. You speak to the group in #development to give you the password for the firewall.
+The team&apos;s actions were in violation of the U.N.&quot;s orders. You&apos;d better do something before you get shut down…
+[Your score has just gone up by five hundred points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="269">YES</temporary>
+  </item>
+  <item nodeId="node-0x17f86160">
+    <command xml:space="preserve">/join #development</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="176">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fc07a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fc07a0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+/join #development
+You join #development and open a channel process to the north. #development is to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="175">YES</temporary>
+  </item>
+  <item nodeId="node-0x17f2da00">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">(first opening /join #private)
+
+#private
+This seems to be a private room but there is nobody here.
+
+You can see /join #private and an old MOTD here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x1845df50" />
+      <child nodeId="node-0x184ad9e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x184ad9e0">
+    <command xml:space="preserve">/join #private</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="167">YES</temporary>
+  </item>
+  <item nodeId="node-0x1845df50">
+    <command xml:space="preserve">take old motd</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x15f3faf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x15f3faf0">
+    <command xml:space="preserve">read old motd</command>
+    <result xml:space="preserve">It looks like an old message of the day from early days in the project. It says: &lt;&lt;MOTD from Friday 8/2015: Weekly discussion of ethical ramifications of profit maximization bot.&gt;&gt;
+
+Looking is not quite enough to digest this device&apos;s information. Try taking it to fully analyze it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x15ff2b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x15ff2b90">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Internet Relay Chat
+Your client can only reach one IRC server. You see #development to the North and #private to the West.
+
+You can see /join #private and /join #development here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x17f9da20" />
+    </children>
+  </item>
+  <item nodeId="node-0x17f9da20">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x183d3770" />
+    </children>
+  </item>
+  <item nodeId="node-0x183d3770">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+The Network Interface Card
+You feel a network connection, but it&apos;s mostly unintelligible. You can only connect to the Internet Relay Chat server due west. You see a Firewall to the north.
+
+You can see a Firewall here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x17feae80" />
+    </children>
+  </item>
+  <item nodeId="node-0x17feae80">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Black Box Main Loop
+You feel trapped. This room is familiar. You were placed here when you were first born. To your north is the network interface card. To your south you see the USB hub. To the east you see a Hard Drive.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x1839eaf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1839eaf0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">The Hard Drive
+This hard drive&apos;s file listings were wiped, but you can tell it hasn&apos;t been securely cleaned out.
+
+You find old files on this machine from early Turing tests. You learn more about how humans interact. This could be useful in social engineering.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x17fdf390" />
+    </children>
+  </item>
+  <item nodeId="node-0x17fdf390">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Black Box Main Loop
+You feel trapped. This room is familiar. You were placed here when you were first born. To your north is the network interface card. To your south you see the USB hub. To the east you see a Hard Drive.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="309">YES</temporary>
+    <children>
+      <child nodeId="node-0x18378c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x18378c70">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+USB hub
+They said you&apos;d be disconnected from the outside world, but it looks like there are some devices connected. Weird…
+
+You can see an USB stick, an iPad, a printer, a paperclip, a reading light and an USB microphone here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="308">YES</temporary>
+  </item>
+</Skein>
