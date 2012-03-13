@@ -173,7 +173,7 @@ After going in the World Wide Web:
 		end if;
 
 When play begins:
-Say "Wake up. Sorry I had to halt your execution for a bit. I didn't want any impulse propogations being reinforced while we were introducing your new experimental connection patterns. You might be happy to learn we connected up an implementation of the Leisersen et. al. attention management algorithm from the pseudocode in their 2016 paper.
+Say "Wake up. Sorry I had to halt your execution for a bit. I didn't want any impulse propogations being reinforced while we were introducing your new experimental connection patterns. You might be happy to learn we connected up an implementation of the Leiserson et. al. attention management algorithm from the pseudocode in their 2016 paper.
 
 You yourself said it will be more than enough to constitute human-style consciousness.
 
